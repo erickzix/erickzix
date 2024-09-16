@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Erick Santos
-- 👷 Atualmente trabalho com Aministração e Suprimentos de Obras
+- 👷 Atualmente trabalho com Administração, Suprimentos e Operações em Obras
 - 👨‍🎓 Estudo Gestão da Produção Industrial
 
 
