@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Erick Santos
+- 👋 Olá Erick Santos
 - 👷 Atualmente trabalho com Administração, Suprimentos e Operações em Obras
-- 👨‍🎓 Estudo Gestão da Produção Industrial
+- 🧑‍💻 Formado em Técnico em Administração (Gestão de Negócios)
+- 👨‍🎓 Estudo Gestão da Produção Industrial 
 
 
 <!---
